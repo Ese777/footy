@@ -1,0 +1,32 @@
+body {
+background-color: rgb(46, 45, 46);
+color: white;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    align-items: center;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: gold;
+border-width: 6px;
+width: 10%;
+}
